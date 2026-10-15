@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **Computer Science Student** passionate about building real-world applications  
+- 🎓 **Computer Science Undergraduate** at Chandigarh College of Engineering, Jhanjeri (2024 – 2028)  
 - 💻 **Full Stack Developer** focused on modern JavaScript frameworks & responsive UI  
 - 🧠 **Strong Foundations**: Data Structures & Algorithms, DBMS, Computer Networks, OS  
 - 🚀 **Project Builder**: Created **InterviewIQ** (AI-powered mock interview platform) & **Eventora** (Event management system)  
